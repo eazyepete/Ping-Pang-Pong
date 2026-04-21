@@ -1,0 +1,1 @@
+start cmd /k echo Have a good day!
